@@ -1,0 +1,7 @@
+font size: rem (em => children only)
+padding: rem
+border: px
+margin: rem / auto (center)
+width: % / vw
+height: % / vh
+top, bottom, left, right: %

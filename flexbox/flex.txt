@@ -1,0 +1,15 @@
+Flexbox
+
+    Flex Container: 
+        - display: flex;
+        - flex-direction
+        - flex-wrap
+        - justify-content
+        - align-items
+        - align-content
+    Flex Item: 
+        - order
+        - align-self
+        - flex-grow
+        - flex-shrink
+        - flex-basis
